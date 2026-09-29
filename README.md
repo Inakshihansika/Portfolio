@@ -1,17 +1,21 @@
 # 👩‍💻 Inakshi Hansika S S
 
-### Data Scientist & Analytics Associate
+### 🚀 Data Scientist & Analytics Associate
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/inakshihansika">
-    <img src="https://img.shields.io/badge/LinkedIn-Inakshi%20Hansika-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://github.com/inakshihansika">
-    <img src="https://img.shields.io/badge/GitHub-inakshihansika-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:inakshihansika@gmail.com">
-    <img src="https://img.shields.io/badge/Email-inakshihansika%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/inakshihansika">
+<img src="https://img.shields.io/badge/LinkedIn-Inakshi%20Hansika-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/Inakshihanshika">
+<img src="https://img.shields.io/badge/GitHub-Inakshihanshika-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:inakshihanshika@gmail.com">
+<img src="https://img.shields.io/badge/Email-inakshihanshika%40gmail.com-red?style=for-the-badge&logo=gmail" />
+</a>
+
 </p>
 
 ---
@@ -20,74 +24,91 @@
 
 I am a **Data Science student and aspiring Data Scientist & Analytics Associate** passionate about transforming complex datasets into meaningful business intelligence and predictive insights.
 
-My core interests include **Python, SQL, Power BI, Tableau, Machine Learning, Exploratory Data Analysis, and Interactive Dashboard Development**.
+I work with **Python, SQL, Power BI, Tableau, Machine Learning, Exploratory Data Analysis, and Interactive Dashboard Development**.
 
-I enjoy working at the intersection of **data, technology, and business**, using analytical thinking to identify patterns, build predictive models, and create data-driven solutions.
+My interests lie at the intersection of **Data, Technology, and Business**, where I focus on identifying patterns, developing predictive models, creating interactive dashboards, and converting data into actionable insights.
 
 ---
 
-## 🎯 Career Focus
+# 🎯 Career Focus
 
 - 📊 Data Science & Analytics
 - 🤖 Machine Learning
 - 📈 Business Intelligence
 - 🧮 Predictive Modeling
 - 🔍 Exploratory Data Analysis
-- 📊 Dashboard & Data Visualization
+- 📊 Data Visualization
 - 🗄️ SQL & Database Analytics
 - ⚙️ Data Cleaning & ETL
-- 📌 KPI & Business Performance Analysis
+- 📌 KPI Architecture
+- 📈 Growth Analytics
 - 💡 Data-Driven Decision Making
+- 🤝 Stakeholder Communication
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### 💻 Programming & Querying
+## 💻 Programming & Querying
 
-- Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- SQL
-- MongoDB
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+- 🤖 Scikit-Learn
+- 🗄️ SQL
+- 🍃 MongoDB
 
-### 📊 Business Intelligence & Visualization
+---
 
-- Microsoft Power BI
-- DAX
-- Power Query
-- Tableau
-- Advanced Excel
+## 📊 Business Intelligence & Visualization
 
-### 🤖 Machine Learning & Analytics
+- 📊 Microsoft Power BI
+- 📐 DAX
+- 🔄 Power Query
+- 📈 Tableau
+- 📗 Advanced Excel
 
-- Random Forest
-- Predictive Modeling
-- Feature Engineering
-- Exploratory Data Analysis (EDA)
-- Data Preprocessing
-- Model Validation
+---
 
-### ⚙️ Data Operations & ETL
+## 🤖 Machine Learning & Analytics
 
-- Data Cleaning
-- KPI Architecture
-- Growth Analytics
-- Automation
+- 🌲 Random Forest
+- 📈 Predictive Modeling
+- ⚙️ Feature Engineering
+- 🔍 Exploratory Data Analysis
+- 🧹 Data Preprocessing
+- ✅ Model Validation
+- 📊 Statistical Analysis
 
-### 🧰 Development & Productivity Tools
+---
 
-- Jupyter Notebook
-- Git
-- GitHub
-- UiPath Studio
+## ⚙️ Data Operations & ETL
 
-### 💡 Professional Strengths
+- 🧹 Data Cleaning
+- 📌 KPI Architecture
+- 📈 Growth Analytics
+- ⚡ Automation
+- 🔄 Data Wrangling
+- 📊 Revenue Analysis
 
-- Statistical Reasoning
-- Stakeholder Communication
-- Problem Solving
+---
+
+## 🧰 Development Tools
+
+- 📓 Jupyter Notebook
+- 🐙 Git
+- 🐙 GitHub
+- ⚙️ UiPath Studio
+
+---
+
+## 💡 Professional Strengths
+
+- 📊 Statistical Reasoning
+- 🗣️ Stakeholder Communication
+- 🧩 Problem Solving
+- 🤝 Team Collaboration
+- 💭 Analytical Thinking
 
 ---
 
@@ -97,190 +118,226 @@ I enjoy working at the intersection of **data, technology, and business**, using
 
 **Recent / Ongoing**
 
-During my internship, I have worked on end-to-end analytics workflows involving:
+During my internship, I have worked on end-to-end analytics workflows involving data extraction, cleaning, analysis, visualization, and business insights.
+
+### 🔹 Key Responsibilities
 
 - Extracting and preparing complex datasets
-- Data cleaning and data wrangling using **Python and SQL**
+- Cleaning and wrangling datasets using **Python and SQL**
 - Performing statistical and exploratory analysis
-- Building interactive **Power BI and Tableau dashboards**
-- Working with **Amazon Sales** and **Global Superstore** datasets
+- Developing interactive **Power BI dashboards**
+- Developing interactive **Tableau dashboards**
+- Working with **Amazon Sales** datasets
+- Working with **Global Superstore** datasets
 - Developing dynamic KPI tracking solutions
-- Performing sales trend and growth-rate analysis
+- Performing sales trend analysis
+- Performing growth-rate analysis
 - Conducting revenue attribution analysis
-- Converting analytical findings into clear visual insights for business stakeholders
+- Creating visual narratives for business stakeholders
+
+### 📊 Dashboard Automation
+
+Developed interactive dashboards with dynamic KPI tracking for Amazon Sales and Global Superstore datasets.
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏥 Predictive Healthcare Assistant
+## 🏥 1. Predictive Healthcare Assistant
 
-**Technologies:** Python • Machine Learning • Scikit-Learn • Random Forest
+### 🛠️ Technologies
 
-A predictive healthcare project focused on building a machine learning model using **Random Forest**.
+**Python • Machine Learning • Scikit-Learn • Random Forest**
 
-### Key Work
+A predictive healthcare project focused on developing a machine learning model using the **Random Forest algorithm**.
+
+### 🔹 Key Work
 
 - Data preprocessing
 - Feature selection
-- Predictive modeling
+- Feature engineering
+- Random Forest modeling
+- Predictive analytics
 - Model validation
-- Machine learning workflow development
+- Machine learning workflow
 - Research documentation
 
-📄 The project culminated in a published research paper.
+📄 The project culminated in a **published research paper**.
 
 ---
 
-## 🛒 Amazon Sales Analytics Dashboard
+# 🛒 2. Amazon Sales Analytics Dashboard
 
-**Technologies:** Power BI • DAX • Power Query
+### 🛠️ Technologies
+
+**Power BI • DAX • Power Query**
 
 An interactive business intelligence dashboard designed to analyze Amazon sales performance.
 
-### Key Analysis
+### 📊 Key Analysis
 
 - Multi-region performance
 - Product profitability
 - Revenue trends
 - KPI tracking
+- Sales performance
 - Business performance visualization
 - Executive-level reporting
 
-The dashboard transforms sales data into interactive insights for decision-making.
+### 🎯 Objective
+
+To transform sales data into interactive business insights that support data-driven decision-making.
 
 ---
 
-## 📦 Retail Performance & Inventory Dashboard
+# 📦 3. Retail Performance & Inventory Dashboard
 
-**Technologies:** Tableau • EDA
+### 🛠️ Technologies
+
+**Tableau • Exploratory Data Analysis**
 
 A dynamic Tableau dashboard focused on retail performance and inventory analysis.
 
-### Key Analysis
+### 📊 Key Analysis
 
 - Consumer buying patterns
 - Inventory turnover
 - Operational KPIs
 - Sales performance
 - Retail trends
-- Stock allocation insights
-- Sales forecasting analysis
+- Stock allocation
+- Sales forecasting
+
+### 🎯 Objective
+
+To analyze retail and inventory performance and provide visual insights for operational decision-making.
 
 ---
 
-## ✈️ SmartBuddy — Intelligent Travel Assistant
+# ✈️ 4. SmartBuddy — Intelligent Travel Assistant
 
-**Type:** Hackathon Project
+### 🛠️ Type
 
-**Technologies:** Rapid Prototyping • AI-driven Workflows
+**Hackathon Project**
 
-SmartBuddy is an intelligent travel planning concept developed as a collaborative hackathon project.
+### 🧰 Technologies
 
-### Key Features
+**Rapid Prototyping • AI-driven Workflows**
 
-- AI-driven travel planning
-- Personalized itinerary recommendations
-- Travel planning workflows
-- Rapid prototyping
-- Cross-functional team collaboration
+SmartBuddy is an intelligent travel planning application concept developed collaboratively during a hackathon.
+
+### 🔹 Key Features
+
+- 🤖 AI-driven travel planning
+- 🗺️ Personalized itinerary recommendations
+- ✈️ Travel planning workflows
+- ⚡ Rapid prototyping
+- 🤝 Cross-functional collaboration
+- 💡 AI-based recommendation concept
 
 ---
 
 # 🎓 Education
 
-## B.Sc. Data Science
+## 🎓 B.Sc. Data Science
 
-**PSGR Krishnammal College for Women**
+### PSGR Krishnammal College for Women
 
-📅 2024 – 2027  
+📅 **2024 – 2027**
+
 📈 **CGPA: 8.7**
 
 ---
 
-## Higher Secondary Certificate — Class XII
+## 🏫 Higher Secondary Certificate — Class XII
 
-**Cambridge Matriculation Higher Secondary School**
+### Cambridge Matriculation Higher Secondary School
 
-📅 2023  
+📅 **2023**
+
 📈 **94%**
 
 ---
 
-# 📜 Certifications
+# 📜 Professional Certifications
 
-- 🏆 **Microsoft Certified: Power BI Data Analyst Associate** — Microsoft, March 2026
-- 📊 **Data Visualisation: Empowering Business with Effective Insights** — Tata via Forage, June 2025
-- ⚙️ **Automation Business Analyst Associate Training** — UiPath, July 2025
-- 🗄️ **MongoDB Certified Developer** — MongoDB, June 2025
-- 🤖 **Getting Started with Deep Learning using AI** — DeepLearning.AI, May 2025
-- 📈 **Everyday Excel Part 1** — University of Colorado Boulder, May 2025
+### 🏆 Microsoft Certified: Power BI Data Analyst Associate
+
+**Microsoft — March 2026**
+
+---
+
+### 📊 Data Visualisation: Empowering Business with Effective Insights
+
+**Tata via Forage — June 2025**
+
+---
+
+### ⚙️ Automation Business Analyst Associate Training
+
+**UiPath — July 2025**
+
+---
+
+### 🗄️ MongoDB Certified Developer
+
+**MongoDB — June 2025**
+
+---
+
+### 🤖 Getting Started with Deep Learning using AI
+
+**DeepLearning.AI — May 2025**
+
+---
+
+### 📈 Everyday Excel Part 1
+
+**University of Colorado Boulder — May 2025**
 
 ---
 
 # 👑 Leadership & Governance
 
-### 🎓 Student Representative
+## 🎓 Elected Student Representative
 
-**PSGR Krishnammal College for Women**
+### PSGR Krishnammal College for Women
 
-📅 2024 – 2025
+📅 **2024 – 2025**
 
 - Elected as a Student Representative
-- Participated in student leadership and governance activities
+- Participated in student leadership activities
+- Contributed to student governance
 
 ---
 
 # 📊 My Data Science Toolkit
 
 ```text
-Python
-  ├── Pandas
-  ├── NumPy
-  └── Scikit-Learn
-
-Data Analytics
-  ├── SQL
-  ├── MongoDB
-  ├── Excel
-  └── EDA
-
-Business Intelligence
-  ├── Power BI
-  ├── DAX
-  ├── Power Query
-  └── Tableau
-
-Machine Learning
-  ├── Random Forest
-  ├── Predictive Modeling
-  ├── Feature Engineering
-  └── Model Validation
-
-Tools
-  ├── Jupyter Notebook
-  ├── Git
-  ├── GitHub
-  └── UiPath Studio
----
-
-# 📄 Resume
-
-<p align="center">
-
-<a href="./Inakshi_Hansika_Professional_Resume.pdf">
-  <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-Download%20Resume-blue?style=for-the-badge" />
-</a>
-
-</p>
-
----
-
-### ⭐ Thank you for visiting my portfolio!
-
-**Inakshi Hansika S S**  
-Data Scientist & Analytics Associate
-
-📧 inakshihansika@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/inakshihansika)  
-🐙 [GitHub](https://github.com/inakshihansika)
+                         DATA SCIENCE
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+      PROGRAMMING         ANALYTICS          VISUALIZATION
+          │                   │                   │
+       Python               SQL               Power BI
+       Pandas              MongoDB              DAX
+       NumPy                Excel            Power Query
+   Scikit-Learn              EDA                Tableau
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              │
+                       MACHINE LEARNING
+                              │
+                 ┌────────────┼────────────┐
+                 │            │            │
+            Random Forest  Predictive   Feature
+                           Modeling    Engineering
+                              │
+                              │
+                       BUSINESS INSIGHTS
+                              │
+                  ┌───────────┼───────────┐
+                  │           │           │
+                KPIs      Growth       Revenue
+                         Analytics     Analysis
