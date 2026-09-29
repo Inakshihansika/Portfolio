@@ -262,3 +262,25 @@ Tools
   ├── Git
   ├── GitHub
   └── UiPath Studio
+---
+
+# 📄 Resume
+
+<p align="center">
+
+<a href="./Inakshi_Hansika_Professional_Resume.pdf">
+  <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-Download%20Resume-blue?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+### ⭐ Thank you for visiting my portfolio!
+
+**Inakshi Hansika S S**  
+Data Scientist & Analytics Associate
+
+📧 inakshihansika@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/inakshihansika)  
+🐙 [GitHub](https://github.com/inakshihansika)
